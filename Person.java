@@ -1,4 +1,4 @@
-package Exercise;
+package Jobby;
 
 public class Person {
 
